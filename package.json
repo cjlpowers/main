@@ -1,0 +1,10 @@
+{
+  "name": "cjlpowers",
+  "version": "1.0.0",
+  "author": "Chris Powers",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-exec": "",
+    "grunt-contrib-copy": ""
+  }
+}
