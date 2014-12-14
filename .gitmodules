@@ -1,0 +1,6 @@
+[submodule "CP"]
+	path = CP
+	url = https://github.com/cjlpowers/CP.git
+[submodule "Sandbox"]
+	path = Sandbox
+	url = https://github.com/cjlpowers/Sandbox.git
